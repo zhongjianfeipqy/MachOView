@@ -12,7 +12,7 @@
 #endif
 
 #include <string.h>
-#include <capstone.h>
+#include "capstone.h"
 
 #include "utils.h"
 #include "MCRegisterInfo.h"
