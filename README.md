@@ -18,7 +18,6 @@
 ![旧版MachOView显示.png](https://upload-images.jianshu.io/upload_images/2094754-39e8a85e1ba4da52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 修改版MachOView显示：
-![修改版MachOView显示.png](https://upload-images.jianshu.io/upload_images/2094754-74d92a207e9c27e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 **初改版本，有问题大佬们可以提一下**
