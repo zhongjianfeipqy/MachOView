@@ -1,4 +1,4 @@
-# MachOView（对官方MachoView进行优化、增加检测中文功能）
+# MachOView
 
 ## 对官方MachoView进行优化、增加功能
 
