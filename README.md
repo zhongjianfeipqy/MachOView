@@ -21,9 +21,8 @@
 ![修改版MachOView显示.png](https://upload-images.jianshu.io/upload_images/2094754-1de2d60bf13cd866.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-# 初改版本，有问题大佬们可以提一下
-
-# 喜欢的大佬可以给个star哈 
+### 初改版本，有问题大佬们可以提一下
+###  喜欢的大佬可以给个star哈 
 
 [说明链接](https://www.jianshu.com/p/c51a138c932f)
 
